@@ -1,1 +1,1 @@
-Its a practice project for Pythong Selenium
+Its a practice project for Python Selenium
